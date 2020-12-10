@@ -1,6 +1,2 @@
 playsound==1.2.2
 pynput==1.7.1
-pyobjc-core==7.0.1
-pyobjc-framework-Cocoa==7.0.1
-pyobjc-framework-Quartz==7.0.1
-six==1.15.0
